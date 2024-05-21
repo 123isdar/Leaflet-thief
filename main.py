@@ -42,7 +42,7 @@ def append_to_old_links(links, old_links_filename):
         print(f"Error appending to old links file: {e}")
 
 if __name__ == "__main__":
-    target_url = "https://kaotic.com"  # Replace with your desired URL
+    target_url = "https://example.com"  # Replace with your desired URL
     word_to_sort_by = ""  # Replace with the word you want to sort links by
     output_filename = "sorted_unique_links.txt"
     old_links_filename = "old_links.txt"  # Replace with the old links file name
@@ -66,5 +66,6 @@ with open(file_path, 'r', encoding='utf-8') as file:
 num_lines = len(lines)
 if num_lines!=0 :
     print("run")
+    subprocess.run(['python', 'index.py'])
 else:
-    print("Done")
+    print("We don't have a new post")
