@@ -7,4 +7,4 @@ pip install beautifulsoup4
 pip install requests
 You need client_secret.json file from Google.
 Watch this video to learn more about client_secret.json file 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/to461lvKMqY?si=LYL3QYBTugb4lvMO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+https://www.youtube.com/embed/to461lvKMqY?si=LYL3QYBTugb4lvMO
