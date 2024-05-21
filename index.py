@@ -10,6 +10,7 @@ import time
 
 # Start the OAuth flow to retrieve credentials
 def authorize_credentials():
+    #Watch the video to learn more about client_secret.json file
     CLIENT_SECRET = 'client_secret.json'
     SCOPE = 'https://www.googleapis.com/auth/blogger'
     STORAGE = Storage('credentials.storage')
