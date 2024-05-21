@@ -1,5 +1,5 @@
 If you want to copy posts (eg video) and display them on your blogger blog
-library : 
+<br>library : 
   pip install httplib2
   pip install oauth2client
   pip install google-api-python-client
