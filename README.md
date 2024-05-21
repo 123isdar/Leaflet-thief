@@ -7,4 +7,4 @@ If you want to copy posts (eg video) and display them on your blogger blog
   <br>pip install requests
 <br>You need client_secret.json file from Google.
 <br>Watch this video to learn more about client_secret.json file : 
-  <br>https://www.youtube.com/embed/to461lvKMqY?si=LYL3QYBTugb4lvMO
+  <br>https://www.youtube.com/watch?v=to461lvKMqY&ab_channel=MakarablueDev
